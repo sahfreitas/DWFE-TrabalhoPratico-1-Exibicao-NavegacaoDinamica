@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&display=swap');
 
 @import url('./cabecalho.css');
-@import url('./cards.css');
+@import url('./album.css');
 @import url('./rodape.css');
-@import url('./responsivo.css');
-@import url('./carrosel.css');
+@import url('./album.css');
 @import url('./corpo.css');
+@import url('./responsivo.css');
 
 *{
     margin: 0;
